@@ -1,4 +1,4 @@
 # iot_edge
-GoLang service using edge computing concepts.
+GoLang sample service using edge computing concepts.
 
 Service is deployed using docker and kubernetes

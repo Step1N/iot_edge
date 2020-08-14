@@ -1,2 +1,4 @@
 # iot_edge
-GoApp Using using docker and kubernetes 
+GoLang service using edge computing concepts.
+
+Service is deployed using docker and kubernetes
